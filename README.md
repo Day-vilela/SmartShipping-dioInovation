@@ -20,11 +20,11 @@ Utilizamos o padrão Strategy para encapsular diferentes regras de cálculo de f
 
 ## 🏁 Como executar
 1. Clone o projeto
-2. Execute `./mvnw spring-boot:run`
+2. Execute 
 3. Use o Postman ou Swagger para testar os endpoints
 
 ## 📂 Estrutura
-Veja o arquivo `Directory Structure Overview`.
+Veja o arquivo.
 
 ## 📌 Exemplo de uso
 ```json
